@@ -1,5 +1,3 @@
-# tb-wild-boar-red-deer
-Prevalences of Tuberculosis in wild boar and red deer
 
 # Tuberculosis in Wild Boar and Red Deer in Spain
 
@@ -7,7 +5,7 @@ Statistical analysis of TB-like lesion prevalence in wild boar (*Sus scrofa*) an
 
 *BIOL 520C course project, UBC Okanagan, December 2021. Author: Md Tareque Hossain*
 
-📄 **[Read the full report (PDF)](report/BIO520C_TB_wild_boar_red_deer_report.pdf)**
+📄 **[Read the full report (PDF)](BIO520C_TB_wild_boar_red_deer_report.pdf)**
 
 ## Question
 

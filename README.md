@@ -13,7 +13,7 @@ Bovine TB (*Mycobacterium bovis*) persists in wildlife and can re-infect livesto
 
 ## Data
 
-Deer_Tb.csv`: farm-level TB prevalence and habitat/management covariates (see the [data dictionary](data/README.md)). The course dataset comes from the national survey in [Vicente et al. (2006)](https://doi.org/10.1051/vetres:2005044). After dropping farms with missing values and the *E. cervi* columns (no boar data), **n = 23 farms** remained.
+Deer_Tb.csv`: farm-level TB prevalence and habitat/management covariates (see the [data dictionary](README.md)). The course dataset comes from the national survey in [Vicente et al. (2006)](https://doi.org/10.1051/vetres:2005044). After dropping farms with missing values and the *E. cervi* columns (no boar data), **n = 23 farms** remained.
 
 ## Methods
 
@@ -97,7 +97,7 @@ The intercept-only model (`DeerPropPos ~ 1`) ranked best (AICc = 5.7); every oth
 
 ```r
 install.packages(c("corrplot", "xtable", "MuMIn", "DescTools", "ResourceSelection"))
-source("R/analysis.R")   # run from the repository root
+source("tb_boar_deer_analysis.R")   # run from the repository root
 ```
 
 ## Reference

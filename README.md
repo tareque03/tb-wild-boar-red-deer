@@ -28,16 +28,16 @@ Bovine TB (*Mycobacterium bovis*) persists in wildlife and can re-infect livesto
 ### Exploratory plots
 
 **TB-positive boar out of boar sampled, by farm**
-![Boar sampled vs positive](figures/fig1_boar_sampled_vs_positive.png)
+![Boar sampled vs positive](fig1_boar_sampled_vs_positive.png)
 
 **TB-positive deer out of deer sampled, by farm**
-![Deer sampled vs positive](figures/fig2_deer_sampled_vs_positive.png)
+![Deer sampled vs positive](fig2_deer_sampled_vs_positive.png)
 
 **Proportion positive in boar vs deer, by farm**
-![Proportion positive](figures/fig3_proportion_positive_by_farm.png)
+![Proportion positive](fig3_proportion_positive_by_farm.png)
 
-**Spearman correlation matrix** (full values in the [report](report/BIO520C_TB_wild_boar_red_deer_report.pdf), Table 1)
-![Correlation plot](figures/fig4_correlation_plot.png)
+**Spearman correlation matrix** (full values in the [report](BIO520C_TB_wild_boar_red_deer_report.pdf), Table 1)
+![Correlation plot](fig4_correlation_plot.png)
 
 ### Model 1: boar TB proportion
 
@@ -68,7 +68,7 @@ Model-averaged coefficients (ΔAICc ≤ 2, full average): DeerPropPos 4.78 (p = 
 
 | Best model residuals | Averaged model residuals |
 |---|---|
-| ![Residuals, best model](figures/fig7_residuals_best_model.png) | ![Residuals, averaged model](figures/fig9_residuals_average_model.png) |
+| ![Residuals, best model](fig7_residuals_best_model.png) | ![Residuals, averaged model](fig9_residuals_average_model.png) |
 
 ### Model 2: deer TB proportion
 
